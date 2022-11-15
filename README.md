@@ -23,6 +23,7 @@ un-italic _italic_
 | col 2 is      | centered      |   399฿ |
 | zebra stripes | are neat      |    33฿ |
 
+[x] wwwww
 [ ] xxxx
 [x] yyyyy
-[] zzzz-edit
+[] zzzz
