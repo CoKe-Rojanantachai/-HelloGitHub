@@ -25,4 +25,4 @@ un-italic _italic_
 
 [ ] xxxx
 [x] yyyyy
-[] zzzz-edit
+[] zzzz
