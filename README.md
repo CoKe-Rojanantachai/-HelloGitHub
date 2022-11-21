@@ -1,9 +1,9 @@
-# 📚-HelloGitHub
+# -HelloGitHub
 Test GitHub
 
-un-bold **Text Bold**
+un-bold **Bold**
 
-un-italic _text italic_
+un-italic _italic_
 
 [![image](https://github.githubassets.com/images/modules/codespaces/github-vscode-logo-light.svg)](https://github.com/CoKe-Rojanantachai/-HelloGitHub)
 
@@ -15,7 +15,6 @@ un-italic _text italic_
 | ----- | ----- | ----- | ----- |
 | col11 | col12 | col13 | col14 |
 | col21 | col22 | col23 | col24 |
-| col31 | col32 | col33 | col33 |
 
 
 | Tables        | Are           | Cool   |
@@ -28,11 +27,3 @@ un-italic _text italic_
 [ ] xxxx
 [x] yyyyy
 [] zzzz
-
-```php
-<?php 
-echo 'Hello GitHub';
-?>
-```
-
-`Hight Text`
