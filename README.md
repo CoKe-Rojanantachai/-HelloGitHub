@@ -11,7 +11,13 @@ un-italic _italic_
 
 >Block Quotes
 
+<<<<<<< HEAD
 >[_Markdown Syntax_](https://www.markdownguide.org/basic-syntax/)
+=======
+>[Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+
+---
+>>>>>>> 743acd4 (update README.md)
 
 | Header1 | Header2 | Header3 | Header4 |
 | ----- | ----- | ----- | ----- |
@@ -40,4 +46,6 @@ echo 'Hello GitHub';
 
 `Hight Text`
 
-modified by CoKe-Lucifer
+_edit in same line by CoKe-Rojanantachai,_
+
+_modified by CoKe-Lucifer_
