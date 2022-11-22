@@ -11,6 +11,10 @@ un-italic _italic_
 
 >Block Quotes
 
+>[Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
+
+---
+
 | Header1 | Header2 | Header3 | Header4 |
 | ----- | ----- | ----- | ----- |
 | col11 | col12 | col13 | col14 |
@@ -38,5 +42,6 @@ echo 'Hello GitHub';
 
 `Hight Text`
 
-edit in same line by CoKe-Rojanantachai,
-modified by CoKe-Lucifer
+_edit in same line by CoKe-Rojanantachai,_
+
+_modified by CoKe-Lucifer_
