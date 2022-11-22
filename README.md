@@ -11,7 +11,7 @@ un-italic _italic_
 
 >Block Quotes
 
->[_Markdown Syntax_](https://www.markdownguide.org/basic-syntax/)
+>[Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ---
 
