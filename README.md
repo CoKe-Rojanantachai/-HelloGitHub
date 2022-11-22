@@ -1,9 +1,9 @@
-# 📚-HelloGitHub
+# -HelloGitHub
 Test GitHub
 
-un-bold **Text Bold**
+un-bold **Bold**
 
-un-italic _text italic_
+un-italic _italic_
 
 [![image](https://github.githubassets.com/images/modules/codespaces/github-vscode-logo-light.svg)](https://github.com/CoKe-Rojanantachai/-HelloGitHub)
 
@@ -11,11 +11,12 @@ un-italic _text italic_
 
 >Block Quotes
 
+>[_Markdown Syntax_](https://www.markdownguide.org/basic-syntax/)
+
 | Header1 | Header2 | Header3 | Header4 |
 | ----- | ----- | ----- | ----- |
 | col11 | col12 | col13 | col14 |
 | col21 | col22 | col23 | col24 |
-| col31 | col32 | col33 | col33 |
 
 
 | Tables        | Are           | Cool   |
