@@ -11,13 +11,9 @@ un-italic _italic_
 
 >Block Quotes
 
-<<<<<<< HEAD
 >[_Markdown Syntax_](https://www.markdownguide.org/basic-syntax/)
-=======
->[Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ---
->>>>>>> 743acd4 (update README.md)
 
 | Header1 | Header2 | Header3 | Header4 |
 | ----- | ----- | ----- | ----- |
@@ -30,6 +26,8 @@ un-italic _italic_
 | col 3 is      | right-aligned | 53231฿ |
 | col 2 is      | centered      |   399฿ |
 | zebra stripes | are neat      |    33฿ |
+
+---
 
 [x] wwwww
 [ ] xxxx
